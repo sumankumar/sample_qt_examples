@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XmlOfflineData>
+    <StationData>
+        <StationId>MyProCo</StationId>
+        <LineId>xy</LineId>
+        <PhaseId>111</PhaseId>
+        <AdapterId>222</AdapterId>
+        <ReportPath>./home</ReportPath>
+    </StationData>
+</XmlOfflineData>
+<root>
+    <Header>
+        <Project_A>success</Project_A>
+    </Header>
+</root>
